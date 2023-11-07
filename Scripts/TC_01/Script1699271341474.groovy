@@ -21,6 +21,8 @@ println('Test Start')
 
 WebUI.openBrowser('https://www.facebook.com/login/')
 
+WebUI.takeScreenshot()
+
 WebUI.setText(findTestObject('Username'), 'Rohit')
 
 WebUI.takeScreenshot()
