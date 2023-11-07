@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuite_1,Chrome 119.0.0.0,,,2023-11-06 18:22:25,2023-11-06 18:22:28,3.811s,PASSED
+,,,,,,,
+Test Cases/TC_01,Chrome 119.0.0.0,,,2023-11-06 18:22:25,2023-11-06 18:22:28,3.668s,PASSED
+"println(""Test Start"")",Chrome 119.0.0.0,,,2023-11-06 18:22:25,2023-11-06 18:22:25,0.003s,PASSED
+"openBrowser(""https://www.facebook.com/login/"")",Chrome 119.0.0.0,,,2023-11-06 18:22:25,2023-11-06 18:22:27,2.514s,PASSED
+"setText(findTestObject(""Username""), ""Rohit"")",Chrome 119.0.0.0,,,2023-11-06 18:22:27,2023-11-06 18:22:28,0.647s,PASSED
+takeScreenshot(),Chrome 119.0.0.0,,,2023-11-06 18:22:28,2023-11-06 18:22:28,0.351s,PASSED

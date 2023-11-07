@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuite_1,,,,2023-11-06 18:13:20,2023-11-06 18:13:20,0.269s,PASSED
+,,,,,,,
+Test Cases/TC_01,,,,2023-11-06 18:13:20,2023-11-06 18:13:20,0.150s,PASSED
+"println(""Test Start"")",,,,2023-11-06 18:13:20,2023-11-06 18:13:20,0.003s,PASSED
